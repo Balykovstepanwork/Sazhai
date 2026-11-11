@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.2",
+    "version":  "1.0.3",
     "minVersion":  "1.0.1",
-    "url":  "https://github.com/Balykovstepanwork/Sazhai/releases/download/v1.0.2/patch_1.0.2.zip",
-    "size":  387758,
-    "sha256":  "a7c2e41a31fe8cfa62bf9ce573eb0408f91c8a002dfa96fdb2b5922cb0239989",
-    "notes":  "Механизм обновления готов: игра сама узнаёт о новой версии\\nСкачивание с проверкой SHA-256 и накат без участия игрока\\nЕсли обновление не удалось, игра остаётся прежней и сообщает об этом"
+    "url":  "https://github.com/Balykovstepanwork/Sazhai/releases/download/v1.0.3/patch_1.0.3.zip",
+    "size":  483733,
+    "sha256":  "4cd2eb7a290f60c02516c5bd68c14e20a2d2b51d39d39a8100a42f0f17f7a6f1",
+    "notes":  "Прогресс больше не ускоряется переводом часов: время игры берётся с сервера\\nОффлайн-прогресс ограничен 12 часами\\nОтладочные и читерские ключи отключены в релизной сборке"
 }
