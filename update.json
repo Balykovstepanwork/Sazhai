@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.5",
-    "minVersion":  "1.0.1",
-    "url":  "https://github.com/Balykovstepanwork/Sazhai/releases/download/v1.0.5/patch_1.0.5.zip",
-    "size":  28605860,
-    "sha256":  "80d4ef84d8ee375812d35f5016672580ee79e718c6af833f25ab4d8e3a137ced",
-    "notes":  "Защита от подмены кода: игра собрана на IL2CPP (нативный код вместо открытой Assembly-CSharp.dll). Онлайн-вход, рынок и облачное сохранение проверены. Обновление крупнее обычного (27 МБ) - это разовый переход."
+    "version":  "1.0.6",
+    "minVersion":  "",
+    "url":  "https://github.com/Balykovstepanwork/Sazhai/releases/download/v1.0.6/patch_1.0.6.zip",
+    "size":  12208316,
+    "sha256":  "3343e86f27b9f0a5a4a953ba2ca4011631df120ecae0310788ab067a72c87eae",
+    "notes":  "Серверная проверка кошелька и покупок на рынке (Cloud Code): баланс монет и сделки фиксирует сервер.\\nСтартовый капитал нового игрока задаёт сервер, а не клиент.\\nСинхронизация кошелька раз в 90 секунд."
 }
