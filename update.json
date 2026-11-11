@@ -1,8 +1,8 @@
 {
-    "version":  "1.0.4",
+    "version":  "1.0.5",
     "minVersion":  "1.0.1",
-    "url":  "https://github.com/Balykovstepanwork/Sazhai/releases/download/v1.0.4/patch_1.0.4.zip",
-    "size":  391234,
-    "sha256":  "8022a7a5fb8c873c7505e5eaa54409068b85de797e8247a8fba515da4d236a3b",
-    "notes":  "Отсутствие больше не обрезается 12 часами: всё, что выросло за время без игры, начисляется целиком. Уведомление об обновлении теперь приходит сразу после выхода версии."
+    "url":  "https://github.com/Balykovstepanwork/Sazhai/releases/download/v1.0.5/patch_1.0.5.zip",
+    "size":  28605860,
+    "sha256":  "80d4ef84d8ee375812d35f5016672580ee79e718c6af833f25ab4d8e3a137ced",
+    "notes":  "Защита от подмены кода: игра собрана на IL2CPP (нативный код вместо открытой Assembly-CSharp.dll). Онлайн-вход, рынок и облачное сохранение проверены. Обновление крупнее обычного (27 МБ) - это разовый переход."
 }
