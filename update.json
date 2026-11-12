@@ -5,7 +5,7 @@
     "url":  "https://github.com/Balykovstepanwork/Sazhai/releases/download/v1.0.12/patch_1.0.12.zip",
     "size":  286534513,
     "sha256":  "626eec2fe8fc974752762cbb3ca2ad330b739eef66c0907549b514db432a6ff3",
-    "installer":  "",
-    "installerSize":  0,
+    "installer":  "https://github.com/Balykovstepanwork/Sazhai/releases/download/v1.0.12/SazhaiSetup-1.0.12.exe",
+    "installerSize":  297149322,
     "notes":  "Новая заставка студии Balykov Games перед главным меню: сад на закате с деревянной вывеской, на неё медленно проступает каменная буква B с садом внутри и тёплым свечением.\nЗаставка масштабируется под любое разрешение окна и на 3440x1440 стоит так же, как в макете.\nМузыка заставки: новая спокойная оркестровая тема на 10 секунд; громкость берётся из настроек.\nФон заставки больше не «плывёт» — картинка неподвижна.\n"
 }
